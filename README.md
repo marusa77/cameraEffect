@@ -1,11 +1,11 @@
 # Camera Studio
 
 Brio 100の映像を加工してDiscordへ渡すWindows向けPythonアプリ。
-既存のPhraseNestとは独立したフォルダーです。
+専用リポジトリ: https://github.com/marusa77/cameraEffect 。このリポジトリのルートで開発します。
 
 ## 起動
 
-このフォルダーでPowerShellを開き、次を実行してください。
+C:\Users\uchim\cameraEffect\cameraEffect でPowerShellを開き、次を実行してください。
 
 ~~~powershell
 python -m venv .venv
